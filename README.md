@@ -1,3 +1,7 @@
+forked from zzossig/hugo-theme-zzo
+版面乾淨，[blog.jiatool](https://blog.jiatool.com/) 部落格使用的模板樣式
+－－－－－－－－－－
+
 English | 
 [한국어](https://github.com/zzossig/hugo-theme-zzo/blob/master/README.ko.md)
 
